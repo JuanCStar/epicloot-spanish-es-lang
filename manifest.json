@@ -1,0 +1,9 @@
+{
+    "name": "EpicLoot_Spanish_ES_Lang",
+    "description": "Traducción al Español (ES) para Epic Loot",
+    "version_number": "0.9.12",
+    "website_url": "https://www.nexusmods.com/valheim/mods/2376",
+    "dependencies": [
+        "RandyKnapp-EpicLoot-0.9.12"
+    ]
+}
