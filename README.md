@@ -1,4 +1,4 @@
-# epicloot-spanish-es-lang
+# Epic Loot - Traducción Español (ES)
 Traducción al Español (ES) **NO OFICIAL** del mod **Epic Loot** para Valheim de **[RandyKnapp](https://www.nexusmods.com/valheim/mods/387)**.
 ## Instalación
 **IMPORTANTE:** mi recomendación es que la traducción se instale de forma **MANUAL**, porque lo más seguro es que programas como Vortex, r2modman, etc. no hagan bien la instalación de forma automática.
