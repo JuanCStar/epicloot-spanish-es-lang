@@ -500,6 +500,7 @@
   "mod_epicloot_merchant_abandonbountyconfirm": "¿Abandonar la recompensa?",
   "mod_epicloot_merchant_abandonbountydesc": "Es posible que no se pueda volver a recibir",
   "mod_epicloot_merchant_acceptbounty": "Aceptar recompensa",
+  "mod_epicloot_merchant_max_bounties": "Máximo de recompensas alcanzado",
   "mod_epicloot_merchant_bounties": "Recompensas",
   "mod_epicloot_merchant_bountiesactive": "Activa",
   "mod_epicloot_merchant_bountiesavailable": "Disponible",
